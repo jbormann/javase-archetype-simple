@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.jbormann</groupId>
     <artifactId>javase-archetype-simple</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>javase-archetype-simple</name>
     <description>A clean and simple Java SE project template.</description>
     <url>https://github.com/jbormann/javase-archetype-simple</url>
@@ -83,7 +83,7 @@
         <connection>scm:git:git@github.com:jbormann/javase-archetype-simple.git</connection>
         <developerConnection>scm:git:git@github.com:jbormann/javase-archetype-simple.git</developerConnection>
         <url>https://github.com/jbormann/javase-archetype-simple</url>
-        <tag>v0.0.1</tag>
+        <tag>v@{project.version}</tag>
     </scm>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
