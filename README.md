@@ -1,4 +1,4 @@
-# Java SE project template
+# Simple Java SE archetype
 
 A clean and simple Java SE project template.
 
