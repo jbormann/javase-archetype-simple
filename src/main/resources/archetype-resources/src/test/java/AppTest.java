@@ -5,8 +5,8 @@ import org.junit.Test;
 public class AppTest {
 
     @Test
-    public void awesomeTestMethod() {
-        // do awesome stuff
+    public void test() {
+
     }
 
 }
